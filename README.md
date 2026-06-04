@@ -8,11 +8,11 @@
 
 项目实现了时间显示、秒表、菜单交互、水平仪及小游戏等功能。原作者见B站BV1CoGuzEEeN。
 
-![智能手表](智能手表.jpg)
+![智能手表](docs/watch.jpg)
 
-![MPU6050](MPU6050.jpg)
+![MPU6050](docs/MPU6050.jpg)
 
-![原理图](原理图.jpg)
+![原理图](docs/schematic_diagram.jpg)
 
 ## 主要功能
 
